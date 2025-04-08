@@ -1,4 +1,4 @@
-![image alt](https://github.com/Pacificprashant/Netflix-clone/blob/7e41545c55823797c2619dfcb117430e9e0155a2/10.PNG)
+
 ![image alt](https://github.com/Pacificprashant/Netflix-clone/blob/7e41545c55823797c2619dfcb117430e9e0155a2/2.PNG)
 ![image alt](https://github.com/Pacificprashant/Netflix-clone/blob/7e41545c55823797c2619dfcb117430e9e0155a2/3.PNG)
 ![image alt](https://github.com/Pacificprashant/Netflix-clone/blob/7e41545c55823797c2619dfcb117430e9e0155a2/4.PNG)
@@ -7,3 +7,4 @@
 ![image alt](https://github.com/Pacificprashant/Netflix-clone/blob/7e41545c55823797c2619dfcb117430e9e0155a2/7.PNG)
 ![image alt](https://github.com/Pacificprashant/Netflix-clone/blob/7e41545c55823797c2619dfcb117430e9e0155a2/8.PNG)
 ![image alt](https://github.com/Pacificprashant/Netflix-clone/blob/7e41545c55823797c2619dfcb117430e9e0155a2/9.PNG)
+![image alt](https://github.com/Pacificprashant/Netflix-clone/blob/7e41545c55823797c2619dfcb117430e9e0155a2/10.PNG)
